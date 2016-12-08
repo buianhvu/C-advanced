@@ -1,0 +1,17 @@
+[STATIONS]
+S1=ha noi
+S2=lang son
+S3=vinh phuc
+S4=thai nguyen
+S5=sai gon
+S6=thua thien hue
+S7=yen bai
+S8=quy nhon
+S9=hoi an
+S10=hue
+[LINES]
+M1=S1 S2 S3 
+M2=S2 S3 S4 
+M3=S5 S6 S7 
+
+
